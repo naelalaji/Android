@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/chiffrealeatoireapp/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/chiffrealeatoireapp/src/main/res/font/akaya_telivigala.xml" value="0.35625" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/chiffrealeatoireapp/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/mod2ihm/src/main/res/layout/activity_main.xml" value="0.3177083333333333" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/mod4DataBinding/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/mod4findeviewbyid/src/main/res/layout/activity_main.xml" value="0.3177083333333333" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/drawable/Copy of button_bg(1).xml" value="0.1345" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/drawable/Copy of button_bg.xml" value="0.1345" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/drawable/button_bg.xml" value="0.1345" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/layout/HomeActivity.xml" value="0.3177083333333333" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/layout/activity_main.xml" value="0.3177083333333333" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/layout/activity_result.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/layout/correct_dialoag.xml" value="0.3177083333333333" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/layout/correctanswer.xml" value="0.7" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/layout/playactivity.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/layout/time_over_dialog.xml" value="0.3177083333333333" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/layout/timeover.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/layout/wrong_dialog.xml" value="0.3177083333333333" />
+        <entry key="..\:/Users/nalaji2021/AndroidStudioProjects/Demonstrations/tpquestionnaire/src/main/res/layout/wronganswer.xml" value="0.19907407407407407" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
